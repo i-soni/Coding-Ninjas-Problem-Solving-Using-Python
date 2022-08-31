@@ -1,11 +1,9 @@
 # Coding Ninjas Problem Solving Using Python
-![Hits](https://itsjinendrajain.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fitsjinendrajain%2FCoding-Ninjas-Problem-Solving-Using-Python)
+
 Problem Solving Using Python Programming taught by Coding Ninjas. 
 This repository includes all the practice problems and assignments.
-I made this repository for your help.
-If you're unable to view the patterns correctly in the Jupyter notebook, then double-click the markdown cell to enlarge. 
 
-<strong>If there is any code in coding ninjas first remove that than use my code</strong>
+
 
 Topics discussed are:-
 1) [Introduction to Python](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/tree/main/1.Introduction%20to%20Python)
@@ -21,6 +19,6 @@ Topics discussed are:-
 11) [2048 Game](https://github.com/JainMaster/Coding-Ninjas-Problem-Solving-Using-Python/blob/main/2048%20Game.ipynb)
 
 
-# Support Me By Giving Me Star
+
 
 
